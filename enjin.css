@@ -31,15 +31,3 @@
 .nav ul li a:hover {
     color: red;
 }
-
-.header_canvas {
-    margin-top: 20px;
-    padding: 30px;
-    border-radius: 20px;
-    margin: 20 auto;
-    height: 500px;
-    background-color: #99ccff;
-    width: 75%;
-    display: block;
-    justify-content: center;
-}
